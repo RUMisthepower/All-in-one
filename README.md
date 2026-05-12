@@ -79,11 +79,12 @@
 ---
 
 ## 📜 Лицензия
-
-Текстуры распространяются на условиях лицензии **Creative Commons Attribution-NonCommercial-ShareAlike 4.0** (CC BY-NC-SA 4.0).
-
-> 📄 Подробности: [LICENSE](./LICENSE)  
-> 🔗 Официальный текст лицензии: [creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<p>
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg?style=flat-square"
+      alt="License">
+  </a>
+</p>
 
 ---
 
