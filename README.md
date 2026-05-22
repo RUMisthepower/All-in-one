@@ -21,13 +21,9 @@
 
 ## 📥 Скачать
 
-### 🗂️ Полный пак «All-in-One»
-| Версия | Дата | Ссылка |
-|--------|------|--------|
-| **v1.14** | Март 2026 | [📦 Скачать ZIP](../../releases) |
-| **v1.13** | Март 2026 | [🗄️ Архив на Google Drive](https://drive.google.com/drive/u/1/folders/192-UngH4EvO5mabyZFV6fZUzyZZJjl7j) |
+Последнюю версию можно скачать в разделе **[🗂️ Релизы](../../releases)** или с **[🗄️ Google Диска](https://drive.google.com/drive/u/1/folders/192-UngH4EvO5mabyZFV6fZUzyZZJjl7j)**.
 
-> 💡 **Совет**: Актуальные релизы доступны во вкладке **[Releases](../../releases)**.
+> 💡 **Совет**: Во вкладке **[Releases](../../releases)** всегда доступны актуальные версии и история изменений.
 
 ### 🧩 Микро-паки (отдельные категории)
 - 🔋 **AE2 Cells Upscale** - улучшенные текстуры ячеек и интерфейсов для Applied Energistics 2 [📦 Скачать ZIP](./AE2%20cells%20upscale.zip)
@@ -62,11 +58,6 @@
 ## 📋 История изменений
 
 Полный список изменений — в файле [**CHANGELOG.md**](./CHANGELOG.md)
-
-### Последние обновления:
-- ✅ **v1.14**: Документация проекта (LICENSE, CHANGELOG, CONTRIBUTORS, CONTRIBUTING)
-- 🚀 **v1.13**: Текстуры AE2 и AE2FC (Block Container, Portable Fluid Cell, Fluid Storage Void, Fluid Artificial Storage Cell), микро-пак AE2 Cells Upscale
-- 📦 **v1.12**: Первый публичный релиз, базовый набор 32×32
 
 ---
 
