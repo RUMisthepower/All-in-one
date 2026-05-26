@@ -7,6 +7,19 @@
 
 ---
 
+## [1.16] - Май 2026
+
+### Добавлено:
+
+ * wrench из ботании (botanichorizons\textures\items\...)
+
+### Изменены:
+
+ * иконки для GUI из AE2 (appliedenergistics2\textures\guis\states) 
+ * primal грибы (thaumicbases\textures\blocks\aspectshroom\...)
+
+---
+
 ## [1.15] - Май 2026
 
 ### Испавлены:

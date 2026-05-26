@@ -1,0 +1,7 @@
+{
+   
+   "wand": {"category": "master",
+   "replace": "true",
+   "sounds": ["wand1","wand2","wand3"]}
+   
+}
