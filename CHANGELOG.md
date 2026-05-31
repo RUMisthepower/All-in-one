@@ -7,6 +7,15 @@
 
 ---
 
+## [1.17] - Июнь 2026
+
+### Изменены:
+
+ * Living Crystall Chip (gregtech\textures\items\gt.metaitem.01\{668, 668.png}) 
+ * Кейсинги вулканусов и криогеник фризеров (miscutils\textures\blocks\TileEntities\{MACHINE_CASING_ADVANCED_CRYOGENIC, MACHINE_CASING_ADVANCED_VOLCANUS})
+
+---
+
 ## [1.16] - Май 2026
 
 ### Добавлено:
