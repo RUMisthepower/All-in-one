@@ -22,6 +22,7 @@
  * Линзы (dreamcraft\textures\items\{itemRadoxPolymerLens, itemMysteriousCrystalLens})
  * Кейсинги для PCB Factroy (gregtech\textures\blocks\iconsets\{MACHINE_CASING_PCB_TIER_1, MACHINE_CASING_PCB_TIER_2, MACHINE_CASING_PCB_TIER_3)
  * Соленоиды (gregtech\textures\blocks\iconsets\{*SOLENOID})
+ * Водоросли/кораллы (miscutils\textures\items\bioscience\MetaItem1\{0, 1, 2, 3, 4, 5, 6, 7, 8}
 
 ### Изменены:
 
