@@ -7,6 +7,29 @@
 
 ---
 
+## [1.18] - Июль 2026
+
+### Добавлены:
+
+ * Железные бочки и их апгрейды (metalbarrels\textures\{blocks, items})
+ * Железные такни в вагонетках (irontankminecarts\textures\{items, entities})
+ * Железные шалкеры и их апгрейды (ironshulkerbox\textures\{items, model})
+ * Агар, Коллаген и Желатин (bartworks\textures\items\{itemAgar, itemGelatin. itemCollagen})
+ * Предметы для микробиологии и генной инженерии: чашки Петри, пробирки, модули и др. (bartworks\textures\items\{DNA*, *Module, petriDish, DNASampleFlask, PlasmidCell})
+ * Блоки и маски в контуре бимлайна (gtnhlanth\textures\{items, blocks})
+ * Кейсниги нано форджи (gregtech\textures\blocks\iconsets\MACHINE_CASING_RADIANT_NAQUADAH_ALLOY)
+ * Хроматик предметы (dreamcraft\textures\items\{itemChromatic*})
+ * Линзы (dreamcraft\textures\items\{itemRadoxPolymerLens, itemMysteriousCrystalLens})
+ * Кейсинги для PCB Factroy (gregtech\textures\blocks\iconsets\{MACHINE_CASING_PCB_TIER_1, MACHINE_CASING_PCB_TIER_2, MACHINE_CASING_PCB_TIER_3)
+ * Соленоиды (gregtech\textures\blocks\iconsets\{*SOLENOID})
+
+### Изменены:
+
+ * Феймбокс и предметы из бэдрокия (gregtech\textures\blocks\materialicons\CUSTOM\bedrockium)
+ * Фреймбоксы из инфинити (gregtech\textures\blocks\materialicons\infinity)
+
+---
+
 ## [1.17] - Июнь 2026
 
 ### Изменены:
