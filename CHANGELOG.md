@@ -7,6 +7,14 @@
 
 ---
 
+## [1.19] - Июль 2026
+
+### Изменены:
+
+ * Линзы: (dreamcraft\textures\items\itemChromaticLens) (matter-manipulator\textures\items\metaitem\{5, 10, 15, 20})
+
+---
+
 ## [1.18] - Июль 2026
 
 ### Добавлены:
