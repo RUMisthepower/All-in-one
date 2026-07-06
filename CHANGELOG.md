@@ -9,9 +9,15 @@
 
 ## [1.19] - Июль 2026
 
+### Добавлены:
+
+ * Ботания цветящиеся цветы (botania\textures\blocks\{flowerGlimmerin*})
+ * Ботания предметы - линзы и сумка для грибочков (botania\textures\items\{lensFlare, lensRedirect, lensFirework, shroomBag})
+
 ### Изменены:
 
  * Линзы: (dreamcraft\textures\items\itemChromaticLens) (matter-manipulator\textures\items\metaitem\{5, 10, 15, 20})
+ * Ботания сумка для цветов (botania\textures\items\flowerBag)
 
 ---
 
