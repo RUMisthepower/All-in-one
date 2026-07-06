@@ -18,6 +18,7 @@
 
  * Линзы: (dreamcraft\textures\items\itemChromaticLens) (matter-manipulator\textures\items\metaitem\{5, 10, 15, 20})
  * Ботания сумка для цветов (botania\textures\items\flowerBag)
+ * Туам Mixed Fragment (thaumicbases\textures\items\knose\mixedFragment)
 
 ---
 
