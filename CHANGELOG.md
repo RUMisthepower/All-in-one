@@ -11,7 +11,7 @@
 
 ### Добавлены:
 
- * Ботания цветящиеся цветы (botania\textures\blocks\{flowerGlimmerin*})
+ * Ботания светящиеся цветы (botania\textures\blocks\{flowerGlimmerin*})
  * Ботания предметы - линзы и сумка для грибочков (botania\textures\items\{lensFlare, lensRedirect, lensFirework, shroomBag})
  * GT++ пиротиум, криотиум и близз пыль + близз род (miscutils\textures\items\material\{DustPyrotheum, DustCryotheum, DustRodBlizz, RodBlizz})
  * GT++ улучшенный хазмат (ic2\textures\items\{itemArmorHazmatChestplateEx, ItemArmorHazmatHelmetEx, ItemArmorHazmatLeggingsEx, ItemArmorHazmatBootsEx})
