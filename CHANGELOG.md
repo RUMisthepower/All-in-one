@@ -7,6 +7,24 @@
 
 ---
 
+## [1.20] - Июль 2026
+
+### Добавлены:
+
+ * GT++ разные предметы: перо, бойлеры, все виды мяса, каверы, саженец сосны, бревно, листья 
+        (miscutils\textures\items\{magicfeather, itemBoilerChasssis*)
+        (miscutils\textures\items\food\MetaItem\*) (miscutils\textures\items\covers\*)
+        (miscutils\textures\items\trees\saplings\sapling_pine)
+        (miscutils\textures\items\trees\logs\{log_pine_top, log_pine})
+        (miscutils\textures\blocks\trees\leaves\{leaves_pine_opaque, leaves_pine})
+ * GT экструдор шейп и молд для бура (gregtech\textures\items\gt.metaitem.01\{331, 377})
+
+### Изменены:
+
+ * GT++ частицы (miscutils\textures\items\particle\*)
+
+---
+
 ## [1.19] - Июль 2026
 
 ### Добавлены:
