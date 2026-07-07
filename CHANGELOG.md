@@ -22,6 +22,7 @@
 ### Изменены:
 
  * GT++ частицы (miscutils\textures\items\particle\*)
+ * Botania светящиеся цветы (botania\textures\blocks\flowerGlimmering*)
 
 ---
 
