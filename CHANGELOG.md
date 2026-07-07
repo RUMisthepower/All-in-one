@@ -14,6 +14,10 @@
  * Ботания цветящиеся цветы (botania\textures\blocks\{flowerGlimmerin*})
  * Ботания предметы - линзы и сумка для грибочков (botania\textures\items\{lensFlare, lensRedirect, lensFirework, shroomBag})
  * GT++ пиротиум, криотиум и близз пыль + близз род (miscutils\textures\items\material\{DustPyrotheum, DustCryotheum, DustRodBlizz, RodBlizz})
+ * GT++ улучшенный хазмат (ic2\textures\items\{itemArmorHazmatChestplateEx, ItemArmorHazmatHelmetEx, ItemArmorHazmatLeggingsEx, ItemArmorHazmatBootsEx})
+ * GT++ дегидратор койлы (miscutils\textures\items\itemDehydratorCoil*)
+ * GT++ предметы (miscutils\textures\items\science\general\MetaItem1\{9, 10, 11, 12})
+ * GT++ предметы (miscutils\textures\items\bioscience\MetaItem1\{9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 21, 23, 24, 25})
 
 ### Изменены:
 
