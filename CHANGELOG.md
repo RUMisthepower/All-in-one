@@ -20,6 +20,7 @@
  * GT экструдор шейп и молд для бура (gregtech\textures\items\gt.metaitem.01\{331, 377})
  * GT powerfail (gregtech\textures\blocks\icons\powerfail.png) (gregtech\textures\gui\navigator\powerfail.png)
  * GT RawOre (gregtech\textures\items\materialicons\{тут в разных папочках файлы формата oreRaw и oreRaw_OVERLAY}
+ * Thaumometric Essentia Cell (thaumicenergistics\textures\items\essentia.cell.creative)
 
 ### Изменены:
 
