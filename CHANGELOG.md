@@ -7,6 +7,18 @@
 
 ---
 
+## [1.22] - Сентябрь 2026
+
+### Исправлены:
+
+ * Witchery все зелья, имеющие кривое наложение текстур бутылки и наполнения (witchery\textures\items\ingredient.brew*)
+
+### Изменены:
+
+ * GT гемы, а именно Flawless и Exquisite варианты Mysterious и Dragonstone руд (gregtech\textures\items\materialicons\CUSTOM\Dragonstone\{gemExquisite, gemFlawless} (dreamcraft\textures\items\{itemMysteriousCrystalGemExquisite, itemMysteriousCrystalGemFlawless})
+
+---
+
 ## [1.21] - Июль 2026
 
 ### Добавлены:
