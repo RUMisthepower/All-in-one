@@ -7,6 +7,18 @@
 
 ---
 
+## [1.23] - Октябрь 2026
+
+### Изменены: 
+ 
+ * GalaxySpace водоросли (galaxyspace\textures\blocks\tcetie\tcetiedandelion*}
+ 
+ * GalaxySpace роборука (galaxyspace\textures\items\roboarm)
+
+ * GalaxySpace паутина на ИО (galaxyspace\textures\blocks\io\ioweb)
+
+---
+
 ## [1.22] - Сентябрь 2026
 
 ### Исправлены:
