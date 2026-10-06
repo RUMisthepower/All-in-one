@@ -15,7 +15,7 @@
  
  * GalaxySpace роборука (galaxyspace\textures\items\roboarm)
 
- * GalaxySpace паутина на ИО (galaxyspace\textures\blocks\io\ioweb)
+ * GalaxySpace паутина на ИО (galaxyspace\textures\blocks\io\ioweb) 
 
 ---
 
